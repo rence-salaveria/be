@@ -13,3 +13,4 @@
     - This will be the handler for the business logic of the app
 - Add route handlers in routes/api.php
     - If there are no api.php in your routes folder, run `php artisan install:api`
+- Always try to run `php artisan optimize` if there are any problems like 500 server error
